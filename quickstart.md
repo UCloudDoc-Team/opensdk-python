@@ -11,7 +11,7 @@
 
 以下示例以 Python 3 为例，如使用 Python 2，请将示例中的 `ucloud-sdk-python3` 替换为 `ucloud-sdk-python2` 即可。
 
-> **注意**：PSF（Python 软件基金会，Python Software Fundation）宣布，将在 2020 年停止对 Python 2 的支持，建议使用 Python 3 版本，以获取长期支持。
+> **注意**：PSF（Python 软件基金会，Python Software Fundation）宣布，将在 2020 年停止对 Python 2 的支持，建议使用 Python 3 版本，以获取长期支持
 
 ## 安装
 

@@ -1,3 +1,5 @@
+{{indexmenu_n>1}}
+
 # Python SDK 使用说明
 
 | 快速导航 | 版本 | 链接                                         |

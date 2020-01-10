@@ -33,7 +33,7 @@ python setup.py install
 
 ## 初次使用
 
-目前，Python SDK 使用 PublicKey和PrivateKey 作为唯一的鉴权方式，该公私钥可以从以下途径获取：
+目前，Python SDK 使用 PublicKey/PrivateKey 作为唯一的鉴权方式，该公私钥可以从以下途径获取：
 
 - [UAPI 密钥管理](https://console.ucloud.cn/uapi/apikey)
 

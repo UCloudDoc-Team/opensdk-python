@@ -1,6 +1,5 @@
 # 概览
 
-
 * [快速开始](/opensdk-python/quickstart)
 * [通用配置](/opensdk-python/configure)
 * [错误处理](/opensdk-python/error)

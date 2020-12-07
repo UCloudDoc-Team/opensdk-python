@@ -107,4 +107,3 @@ SDK 提供了部分基于场景的示例，并提供了对应的资源销毁逻�
 - 保存请求代码为 `main.py`
 - `pip install ucloud-sdk-python3`
 - `python ./main.py`
-

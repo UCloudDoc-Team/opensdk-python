@@ -54,7 +54,7 @@ try:
     resp = client.uhost().create_uhost_instance({
         'Name': 'sdk-python-quickstart',
         'Zone': 'cn-bj2-02',
-        'ImageId': 'uimage-xxx',  # 此处应替换成真正的 image id
+        'ImageId': 'uimage-xxx', # 此处应替换成真正的 image id
         'Password': "Foobar42", # SDK 内部已经做过 base64 处理，所以此处无需再次转换 base64
         'LoginMode': "Password",
         'CPU': 1,

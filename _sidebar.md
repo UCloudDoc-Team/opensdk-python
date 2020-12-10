@@ -1,4 +1,3 @@
-<div class="sidebar_title"> OpenSDK Python</div>
 
 * [概览](/opensdk-python/README)
 * [快速开始](/opensdk-python/quickstart)

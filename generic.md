@@ -9,6 +9,15 @@
 ## 调用方式
 
 ```python
+from ucloud.core import exc
+from ucloud.client import Client
+
+client = Client({
+    "project_id": "...",
+    "public_key": "...",
+    "private_key": "...",
+})
+
 d = {
     "ResourceIds": ['uhost-xxx'],
     "QueryAll": True,
